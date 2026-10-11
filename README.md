@@ -2,7 +2,7 @@
 
 **An operations workspace built for the Sule Amity Graduates Organisation.** It covers task management, events and attendance, volunteer hours and leader performance. The organisation's leadership team uses it day to day to run their work.
 
-**Live demo: [workspace-application-ten.vercel.app](https://workspace-application-ten.vercel.app)** · runs entirely on fictional sample data, no sign-up needed
+**Live demo: [workspace-application-steel.vercel.app](https://workspace-application-steel.vercel.app)** · runs entirely on fictional sample data, no sign-up needed
 
 ![Home page](docs/screenshots/home.png)
 
