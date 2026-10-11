@@ -90,4 +90,4 @@ The Sule Amity Graduates Organisation is run by volunteer leaders, so their time
 
 ## Credits
 
-Built by **Haris Syed** ([@harissyed2006](https://github.com/harissyed2006)) and co-developed with **Mahmoud** ([@Ciny737](https://github.com/Ciny737)). Developed with AI-assisted tooling. All names, emails and data in the demo are fictional.
+Built by **Haris Syed** ([@harissyed2006](https://github.com/harissyed2006)) and **Mahmoud Abouhamar** ([@Ciny737](https://github.com/Ciny737)). Developed with AI-assisted tooling. All names, emails and data in the demo are fictional.
